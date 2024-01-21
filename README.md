@@ -11,7 +11,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-bf4080?style=flat-square&logo=sass&logoColor=white)
 ![Less](https://img.shields.io/badge/-Less-1d365d?style=flat-square&logo=less&logoColor=white)
 
-## framework
+## Technologies
 ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
