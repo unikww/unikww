@@ -1,7 +1,6 @@
 ### Hi, I'm unike 👋
 
 - 📫 How to reach me: 1062217965@qq.com
-- ⚒  More social media: [掘金](https://juejin.cn/user/4212984286819384)/[Blog](https://qinghuani.fun/)
 - ✍️  I'm writing blog at [掘金](https://juejin.cn/user/4212984286819384)/[Blog](https://qinghuani.fun/)
 
 ## Languages
