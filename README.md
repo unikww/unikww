@@ -1,8 +1,8 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 🌱 I’m currently learning Docker
+### Hi, I'm unike 👋
 - ✍️  I'm writing blog at [https://qinghuani.fun/](https://qinghuani.fun/)
 - 📖 I'm the author of [《WebStorm 使用指南》](https://qinghuani.fun/webstorm-guide/)
 - 📫 How to reach me: 1062217965@qq.com
+- ⚒  More social media: [掘金](https://juejin.cn/user/4212984286819384)
 
 ## Languages
 
