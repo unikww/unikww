@@ -7,6 +7,8 @@
 
 Languages
 
+![HTML5](https://img.shields.io/badge/Html5-%23e34f26.svg?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-337ab7?style=flat-square&logo=typescript&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-bf4080?style=flat-square&logo=sass&logoColor=white)
@@ -14,7 +16,9 @@ Languages
 
 Technologies
 
+
 ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react&logoColor=white)
+![ant design](https://img.shields.io/badge/ant%20design-%230170fe.svg?logo=Ant-design&logoColor=white&style=flat-square)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 
