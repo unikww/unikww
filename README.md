@@ -30,6 +30,6 @@ Tools
 ![Vite](https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite&logoColor=white)
 ![Npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
-![Webpack]([https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=ffffff](https://img.shields.io/badge/Vite-%23000000.svg?logo=vite&logoColor=blue&style=flat-square))
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=ffffff)
 ![Babel](https://img.shields.io/badge/Babel-%23323330.svg?logo=babel&logoColor=%23f9dc3e&style=flat-square)
 
