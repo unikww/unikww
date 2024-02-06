@@ -1,6 +1,6 @@
 ### Hi, I'm unike 👋
 
-- 📫 How to reach me: unike.site@gamil.com
+- 📫 How to reach me: unike.site@gmail.com
 - 💬 公众号: 前端充电包
 - ✍️  I'm writing blog at [掘金](https://juejin.cn/user/4212984286819384) / [思否](https://segmentfault.com/u/demo_5bf76b5f152ef/articles) / [即刻](https://web.okjike.com/me) / [Blog](https://www.unike.fun/)
 
